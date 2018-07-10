@@ -1,0 +1,5 @@
+C:\Code\TDD FizzBuzz\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.dll
+C:\Code\TDD FizzBuzz\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.pdb
+C:\Code\TDD FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csprojResolveAssemblyReference.cache
+C:\Code\TDD FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
+C:\Code\TDD FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb

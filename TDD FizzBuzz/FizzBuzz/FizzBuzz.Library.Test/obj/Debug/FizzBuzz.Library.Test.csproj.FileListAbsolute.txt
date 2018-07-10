@@ -1,0 +1,9 @@
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.dll
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.pdb
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.dll
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\nunit.framework.dll
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.pdb
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\nunit.framework.xml
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csprojResolveAssemblyReference.cache
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.dll
+C:\Code\TDD FizzBuzz\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.pdb
